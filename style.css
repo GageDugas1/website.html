@@ -1,7 +1,6 @@
 body {background-color: rgb(216, 225, 255);}
 
-p.ACC {
-    margin-left: auto;
-    margin-right: auto;
-    width: 8em
-}
+head {text-align: center}
+h1 {text-align: center}
+h2 {text-align: center}
+p {text-align: center}
