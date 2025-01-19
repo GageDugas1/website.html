@@ -1,6 +1,7 @@
 body {background-color: rgb(216, 225, 255);}
 
-head.headtext  {
-    margin:auto;
-    width: 50%;
+p.ACC {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
 }
