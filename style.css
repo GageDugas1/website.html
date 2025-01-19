@@ -1,6 +1,6 @@
 body {background-color: rgb(216, 225, 255);}
 
-.center head  {
+head.headtext  {
     margin:auto;
     width: 50%;
 }
