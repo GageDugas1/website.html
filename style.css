@@ -3,4 +3,5 @@ body {background-color: rgb(216, 225, 255);}
 head {text-align: center}
 h1 {text-align: center}
 h2 {text-align: center}
+hr.line {border: 1px solid black}
 p {text-align: center}
