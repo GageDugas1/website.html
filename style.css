@@ -29,11 +29,7 @@ nav ul {
     align-items: center;
     list-style-type: none;
     gap: 2em;
-}
-
-nav li:first-child {
-    margin-right: auto;
-    font-weight: bold;
+    justify-content: right;
 }
 
 nav a {
@@ -134,6 +130,10 @@ details summary {
 
 details p {
     padding: 0 2em 2em 2em;
+}
+
+details summary:hover {
+    text-decoration: underline;
 }
 
 footer {
